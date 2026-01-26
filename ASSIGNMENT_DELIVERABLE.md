@@ -35,10 +35,10 @@ Product managers receive scattered feedback across many channels, making it diff
 ## Deployed Links
 
 ### 🌐 Live Demo
-**URL**: `https://feedback-analyzer.[your-subdomain].workers.dev`
+**URL**: `https://feedback-analyzer.xuqi22alianqiu.workers.dev`
 
 ### 📦 GitHub Repository
-**URL**: `https://github.com/[your-username]/feedback-analyzer`
+**URL**: `https://github.com/hennessy12/cloudflare-feedback-analyzer`
 
 ### 🎯 API Endpoints
 - Dashboard: `https://feedback-analyzer.[your-subdomain].workers.dev/`
