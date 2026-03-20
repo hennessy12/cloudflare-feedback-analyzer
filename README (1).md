@@ -16,7 +16,7 @@ Feedback Analyzer is a production-ready tool that helps product managers aggrega
 
 ## 🏗️ Architecture
 
-<img width="305" height="734" alt="Screenshot 2026-03-19 at 10 38 08 PM" src="https://github.com/user-attachments/assets/313dfe62-66ce-45f1-97e1-74911241712f" />
+<img width="422" height="482" alt="Screenshot 2026-03-20 at 9 33 45 AM" src="https://github.com/user-attachments/assets/22463658-746c-4f0f-8cd5-a1c1df79d480" />
 
 
 ### Cloudflare Products Used
